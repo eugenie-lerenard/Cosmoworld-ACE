@@ -1,0 +1,16 @@
+.btn-face {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+
+}
+
+.btn-face {
+	display: flex;
+	flex-basis: 500px;
+	flex-wrap: wrap;
+}
+
+.btn-face {
+	border-radius: 50%;
+}
